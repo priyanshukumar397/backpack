@@ -38,7 +38,7 @@
     "@mui/styles": "^5.14.20",
     "@react-navigation/native": "^6.1.7",
     "@tamagui/animations-react-native": "~1.76.0",
-    "@tamagui/babel-plugin": "~1.76.0",
+    "@tamagui/babel-plugin": "~1.125.33",
     "@tamagui/config": "~1.76.0",
     "@tamagui/core": "~1.76.0",
     "@tamagui/font-inter": "~1.76.0",
