@@ -36,7 +36,7 @@
     "@ethersproject/abstract-provider": "^5.7.0",
     "@ethersproject/transactions": "^5.7.0",
     "@magiceden-oss/open_creator_protocol": "^0.3.2",
-    "@metaplex-foundation/mpl-bubblegum": "^0.7.0",
+    "@metaplex-foundation/mpl-bubblegum": "^4.2.1",
     "@metaplex-foundation/mpl-token-metadata": "^2.7.0",
     "@solana/buffer-layout": "^4.0.1",
     "@solana/spl-account-compression": "^0.1.9",
