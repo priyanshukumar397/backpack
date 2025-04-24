@@ -26,7 +26,7 @@
     "@coral-xyz/common": "workspace:*",
     "@solana/wallet-standard-features": "^1.2.0",
     "@solana/wallet-standard-util": "^1.1.1",
-    "@solana/web3.js": "1.63.1",
+    "@solana/web3.js": "1.98.1",
     "@types/uuid": "^9.0.1",
     "bip32": "^2.0.6",
     "bip32-path": "^0.4.2",
