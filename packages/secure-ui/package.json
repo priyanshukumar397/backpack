@@ -43,7 +43,7 @@
     "@ledgerhq/react-native-hw-transport-ble": "6.32.2",
     "@solana/wallet-standard-features": "^1.2.0",
     "@solana/wallet-standard-util": "^1.1.1",
-    "@solana/web3.js": "1.63.1",
+    "@solana/web3.js": "1.98.1",
     "bs58": "^5.0.0",
     "ethers5": "npm:ethers@^5.5.1",
     "ethers6": "npm:ethers@^6.8.0",
