@@ -24,7 +24,7 @@
   "dependencies": {
     "@coral-xyz/common": "workspace:^",
     "@os-team/i18next-react-native-language-detector": "^1.0.30",
-    "i18next": "^23.2.11",
+    "i18next": "^24.2.3",
     "i18next-browser-languagedetector": "^7.1.0",
     "react-i18next": "^13.0.2"
   },
